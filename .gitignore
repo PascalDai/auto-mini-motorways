@@ -1,0 +1,55 @@
+# Python 相关文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 虚拟环境
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 数据文件和截图
+data/
+logs/
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+.vscode/
+.idea/
+
+# 测试产生的文件
+test_*.png
+test_*.jpg
+screenshot_*.png
+screenshot_*.jpg
+
+# 系统文件
+Thumbs.db
+*.swp
+*.swo
+*~ 
